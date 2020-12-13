@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Adventure';
+  src: local('Adventure'), url(./fonts/Adventure/Adventure.ttf) format('truetype');
+}
